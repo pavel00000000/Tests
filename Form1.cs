@@ -70,7 +70,7 @@ namespace WinFormsApp10
                 }
                 else
                 {
-                    MessageBox.Show($"Тест завершен! Ваш балл: {totalScore}");
+                    MessageBox.Show($"Тест завершен! Ваш  балл: {totalScore}");
                 }
             }
         }
